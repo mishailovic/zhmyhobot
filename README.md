@@ -14,5 +14,6 @@ python zhmyhobot.py
 Спасибо всем кто помогал в создании этого проекта
 
 [Demenkop](https://github.com/Demenkop)
+
 [KeyZenD](https://github.com/KeyZenD)
 
